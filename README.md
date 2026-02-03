@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sonucps.sonucps" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sonuraj-dev.sonuraj-dev" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sonu+Raj!;" />
@@ -62,17 +62,17 @@
   <!-- Streak Stats using salesp07 Vercel link -->
   <img 
       width="390"
-      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sonucps&count_private=true&theme=react&border_radius=10" 
+      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sonuraj-dev&count_private=true&theme=react&border_radius=10" 
       alt="GitHub Streak Stats" 
     />
 
   <!-- GitHub Stats -->
- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sonucps&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sonuraj-dev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <br/>
 
   <!-- Top Languages -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonucps&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonuraj-dev&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 
 </div>
 
