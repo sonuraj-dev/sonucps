@@ -12,7 +12,7 @@
 
  
 
-🌱 Building a *Lost & Found + Old Items Marketplace* – repair, resell, and give second life to products  
+🌱 Medicare - medicene delivery app  
 
 💡 Exploring *React, Node.js, Cloud, Data Science, and Data-Driven Design*  
 
